@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=SW4 Pin=U10-3
+Removed Pin From Net: NetName=SW5 Pin=U10-4
+Removed Pin From Net: NetName=SR_D0 Pin=U10-11
+Removed Pin From Net: NetName=SR_D1 Pin=U10-14
+Removed Pin From Net: NetName=SR_D2 Pin=U10-15
+Removed Pin From Net: NetName=MMA_SDA Pin=U10-26
+Removed Pin From Net: NetName=MMA_SCL Pin=U10-27
+Removed Pin From Net: NetName=SW6 Pin=U10-28
+Removed Pin From Net: NetName=DEBUG_RX Pin=U10-29
+Removed Pin From Net: NetName=DEBUG_TX Pin=U10-30
+Removed Pin From Net: NetName=E2_SCL Pin=U10-33
+Removed Pin From Net: NetName=E2_SDA Pin=U10-34
+Removed Pin From Net: NetName=FAN Pin=U10-35
+Removed Pin From Net: NetName=PUMP1 Pin=U10-36
+Removed Pin From Net: NetName=PUMP2 Pin=U10-37
+Removed Pin From Net: NetName=SR_SW Pin=U10-38
+Removed Pin From Net: NetName=TEM Pin=U10-39
+Removed Pin From Net: NetName=SW3 Pin=U10-40
+Removed Pin From Net: NetName=FIRE_UP Pin=U10-41
+Removed Pin From Net: NetName=SW1 Pin=U10-42
+Removed Pin From Net: NetName=SW2 Pin=U10-43
+Removed Pin From Net: NetName=FHD_IN Pin=U10-44
+Removed Pin From Net: NetName=FLD_IN Pin=U10-45
+Removed Pin From Net: NetName=LDHD_IN Pin=U10-50
+Removed Pin From Net: NetName=LDLD_IN Pin=U10-51
+Removed Pin From Net: NetName=ADH_IN Pin=U10-52
+Removed Pin From Net: NetName=ADL_IN Pin=U10-53
+Removed Pin From Net: NetName=BEE Pin=U10-54
+Removed Pin From Net: NetName=IO1 Pin=U10-55
+Removed Pin From Net: NetName=IO2 Pin=U10-56
+Removed Pin From Net: NetName=IO3 Pin=U10-57
+Removed Pin From Net: NetName=IO4 Pin=U10-58
+Removed Pin From Net: NetName=SW7 Pin=U10-61
+Removed Pin From Net: NetName=SW8 Pin=U10-62
+Change Component Description : Designator=U3 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Room: Name=ArtFire

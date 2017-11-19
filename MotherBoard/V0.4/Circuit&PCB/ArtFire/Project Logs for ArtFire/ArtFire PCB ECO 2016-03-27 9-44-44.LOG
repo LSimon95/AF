@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+12V Pin=R2-2
+Added Component: Designator=CB1(SPST-2)
+Added Component: Designator=S2(DIP-4)
+Added Pin To Net: NetName=+12V Pin=CB1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCB1_2 Pin=CB1-2
+Added Pin To Net: NetName=NetCB1_2 Pin=R2-2
+Added Net: Name=NetCB1_2
+Added Pin To Net: NetName=SW1 Pin=S2-4
+Added Pin To Net: NetName=SW1 Pin=U6-42
+Added Net: Name=SW1
+Added Pin To Net: NetName=SW2 Pin=S2-3
+Added Pin To Net: NetName=SW2 Pin=U6-43
+Added Net: Name=SW2
+Added Member To Class: ClassName=ArtFire Member=Component CB1 RF16700
+Added Member To Class: ClassName=ArtFire Member=Component S2 SW DIP-2
+Added Room: Name=ArtFire

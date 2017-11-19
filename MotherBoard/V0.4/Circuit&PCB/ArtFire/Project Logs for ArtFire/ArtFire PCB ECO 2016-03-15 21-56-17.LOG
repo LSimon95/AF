@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetQ5_2 Pin=Q5-2
+Removed Pin From Net: NetName=PGND Pin=Q5-3
+Change Component Footprint: Designator=Q5 Old Footprint=TO-226-AA New Footprint=SOT23_L
+Added Pin To Net: NetName=PGND Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-3
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetQ5_3
+Added Room: Name=ArtFire

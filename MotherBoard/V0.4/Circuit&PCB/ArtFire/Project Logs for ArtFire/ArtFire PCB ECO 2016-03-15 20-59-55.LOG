@@ -1,0 +1,12 @@
+Added Component: Designator=P7(KF3.96_2P)
+Added Component: Designator=P8(XH2.54-2P)
+Added Component: Designator=P10(KF3.96_2P)
+Added Pin To Net: NetName=+12V Pin=P7-1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=+12V Pin=P8-1
+Added Pin To Net: NetName=NetC9_2 Pin=P8-2
+Added Pin To Net: NetName=+12V Pin=P10-1
+Added Pin To Net: NetName=NetC10_2 Pin=P10-2
+Added Member To Class: ClassName=ArtFire Member=Component P7 Fire_Up
+Added Member To Class: ClassName=ArtFire Member=Component P8 Fan
+Added Member To Class: ClassName=ArtFire Member=Component P10 KF3.96_2P

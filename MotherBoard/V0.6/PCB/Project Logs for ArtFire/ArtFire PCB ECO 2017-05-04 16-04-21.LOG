@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SW7 Pin=R43-2
+Removed Pin From Net: NetName=+3.3V Pin=U4-2
+Removed Pin From Net: NetName=SR_SW Pin=U10-2
+Removed Pin From Net: NetName=SW3 Pin=U10-3
+Removed Pin From Net: NetName=SW4 Pin=U10-4
+Removed Pin From Net: NetName=SW7 Pin=U10-28
+Removed Pin From Net: NetName=SW8 Pin=U10-40
+Removed Pin From Net: NetName=SW5 Pin=U10-61
+Removed Pin From Net: NetName=SW6 Pin=U10-62
+Change Component Description : Designator=U3 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Pin To Net: NetName=SW6 Pin=R43-2
+Added Pin To Net: NetName=+3.3V Pin=U4-4
+Added Pin To Net: NetName=PGND Pin=U9-4
+Added Pin To Net: NetName=SW4 Pin=U10-3
+Added Pin To Net: NetName=SW5 Pin=U10-4
+Added Pin To Net: NetName=SW6 Pin=U10-28
+Added Pin To Net: NetName=SR_SW Pin=U10-38
+Added Pin To Net: NetName=SW3 Pin=U10-40
+Added Pin To Net: NetName=SW7 Pin=U10-61
+Added Pin To Net: NetName=SW8 Pin=U10-62
+Added Room: Name=ArtFire

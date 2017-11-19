@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+5V Pin=U10-4
+Removed Pin From Net: NetName=PGND Pin=U10-8
+Change Component Footprint: Designator=Q3 Old Footprint=D2PAK_N New Footprint=DPAK_AOD484
+Added Component: Designator=R32(6-0805_N)
+Added Component: Designator=R33(6-0805_N)
+Added Component: Designator=R34(6-0805_N)
+Added Component: Designator=R35(6-0805_N)
+Added Pin To Net: NetName=PUMP2 Pin=R32-1
+Added Pin To Net: NetName=FIRE_UP Pin=R33-1
+Added Pin To Net: NetName=FAN Pin=R34-1
+Added Pin To Net: NetName=PUMP_BAK Pin=R35-1
+Added Pin To Net: NetName=PGND Pin=U10-4
+Added Pin To Net: NetName=+5V Pin=U10-8
+Added Pin To Net: NetName=3.3V Pin=R32-2
+Added Pin To Net: NetName=3.3V Pin=R33-2
+Added Pin To Net: NetName=3.3V Pin=R34-2
+Added Pin To Net: NetName=3.3V Pin=R35-2
+Added Net: Name=3.3V
+Added Member To Class: ClassName=ArtFire Member=Component R32 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R33 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R34 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R35 Res3
+Added Room: Name=ArtFire

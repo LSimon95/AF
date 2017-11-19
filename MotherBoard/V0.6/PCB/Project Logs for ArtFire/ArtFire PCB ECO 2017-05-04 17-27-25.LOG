@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=+3.3V Pin=P7-1
+Removed Pin From Net: NetName=IO1 Pin=P7-2
+Removed Pin From Net: NetName=IO2 Pin=P7-3
+Removed Pin From Net: NetName=IO3 Pin=P7-4
+Removed Pin From Net: NetName=IO4 Pin=P7-5
+Removed Pin From Net: NetName=IO5 Pin=P7-6
+Change Component Comment : Designator=P4 Old Comment=thermoelectric_couple_f New Comment=Fire_UP
+Added Component: Designator=R60(Res_Pack_0603)
+Added Component: Designator=R61(Res_Pack_0603)
+Added Component: Designator=U13(KP10104CTLD)
+Added Component: Designator=U14(KP10104CTLD)
+Added Component: Designator=U15(KP10104CTLD)
+Added Component: Designator=U16(KP10104CTLD)
+Added Pin To Net: NetName=+5V Pin=P7-1
+Added Pin To Net: NetName=IO1 Pin=R61-1
+Added Pin To Net: NetName=IO2 Pin=R61-2
+Added Pin To Net: NetName=IO3 Pin=R61-3
+Added Pin To Net: NetName=IO4 Pin=R61-4
+Added Pin To Net: NetName=PGND Pin=U9-4
+Added Pin To Net: NetName=SGND Pin=U13-2
+Added Pin To Net: NetName=SGND Pin=U14-2
+Added Pin To Net: NetName=SGND Pin=U15-2
+Added Pin To Net: NetName=PGND Pin=U15-3
+Added Pin To Net: NetName=+5V Pin=U16-1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=R60-8
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=R60-7
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=NetP7_4 Pin=P7-4
+Added Pin To Net: NetName=NetP7_4 Pin=R60-6
+Added Net: Name=NetP7_4
+Added Pin To Net: NetName=NetP7_5 Pin=P7-5
+Added Pin To Net: NetName=NetP7_5 Pin=R60-5
+Added Net: Name=NetP7_5
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=U13-4
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR60_2 Pin=R60-2
+Added Pin To Net: NetName=NetR60_2 Pin=U14-4
+Added Net: Name=NetR60_2
+Added Pin To Net: NetName=NetR60_3 Pin=R60-3
+Added Pin To Net: NetName=NetR60_3 Pin=U15-4
+Added Net: Name=NetR60_3
+Added Pin To Net: NetName=NetR60_4 Pin=R60-4
+Added Pin To Net: NetName=NetR60_4 Pin=U16-2
+Added Net: Name=NetR60_4
+Added Pin To Net: NetName=NetR61_5 Pin=R61-5
+Added Pin To Net: NetName=NetR61_5 Pin=U16-4
+Added Net: Name=NetR61_5
+Added Pin To Net: NetName=NetR61_6 Pin=R61-6
+Added Pin To Net: NetName=NetR61_6 Pin=U15-1
+Added Net: Name=NetR61_6
+Added Pin To Net: NetName=NetR61_7 Pin=R61-7
+Added Pin To Net: NetName=NetR61_7 Pin=U14-1
+Added Net: Name=NetR61_7
+Added Pin To Net: NetName=NetR61_8 Pin=R61-8
+Added Pin To Net: NetName=NetR61_8 Pin=U13-1
+Added Net: Name=NetR61_8
+Added Member To Class: ClassName=ArtFire Member=Component R60 Res_Pack_100R
+Added Member To Class: ClassName=ArtFire Member=Component R61 Res_Pack_100R
+Added Member To Class: ClassName=ArtFire Member=Component U13 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U14 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U15 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U16 KP10104CTLD
+Added Room: Name=ArtFire

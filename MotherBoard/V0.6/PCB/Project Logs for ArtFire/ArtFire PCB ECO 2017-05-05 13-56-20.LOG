@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FIRE_UP Pin=U10-14
+Added Pin To Net: NetName=PUMP1 Pin=U10-15
+Added Pin To Net: NetName=PUMP2 Pin=U10-21
+Added Pin To Net: NetName=ADH_IN Pin=U10-22
+Added Pin To Net: NetName=ADL_IN Pin=U10-23

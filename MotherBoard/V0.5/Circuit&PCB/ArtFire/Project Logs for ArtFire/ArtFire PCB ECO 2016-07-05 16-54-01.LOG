@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=YF_DATA Pin=R37-2
+Removed Pin From Net: NetName=YF_RESET Pin=R38-2
+Removed Member From Class: ClassName=ArtFire Member=R37
+Removed Member From Class: ClassName=ArtFire Member=R38
+Added Pin To Net: NetName=YF_RESET Pin=U9-6
+Added Pin To Net: NetName=YF_DATA Pin=U9-7
+Added Room: Name=ArtFire

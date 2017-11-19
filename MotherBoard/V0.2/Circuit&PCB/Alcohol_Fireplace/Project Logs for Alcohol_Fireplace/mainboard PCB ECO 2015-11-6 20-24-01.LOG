@@ -1,0 +1,330 @@
+Added Component: Designator=C1(Cap_5*4mm)
+Added Component: Designator=C2(6-0805_N)
+Added Component: Designator=C3(Cap_5*4mm)
+Added Component: Designator=C4(6-0805_N)
+Added Component: Designator=C5(6-0805_N)
+Added Component: Designator=C6(6-0805_N)
+Added Component: Designator=C7(6-0805_N)
+Added Component: Designator=C8(6-0805_N)
+Added Component: Designator=C9(6-0805_N)
+Added Component: Designator=C10(6-0805_N)
+Added Component: Designator=D1(LED-0)
+Added Component: Designator=D2(LED-0)
+Added Component: Designator=D3(US1M)
+Added Component: Designator=D4(US1M)
+Added Component: Designator=D5(LED-0)
+Added Component: Designator=D6(US1M)
+Added Component: Designator=D7(US1M)
+Added Component: Designator=D8(US1M)
+Added Component: Designator=K1(SRS-xxVDC-SL)
+Added Component: Designator=K2(SRS-xxVDC-SL)
+Added Component: Designator=K3(SRS-xxVDC-SL)
+Added Component: Designator=K4(SRS-xxVDC-SL)
+Added Component: Designator=K5(SL_delay)
+Added Component: Designator=LS1(BUZZER)
+Added Component: Designator=P1(HB-9500)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(CH3.96_2P)
+Added Component: Designator=P4(CH3.96_2P)
+Added Component: Designator=P5(HDR1X4H)
+Added Component: Designator=P6(superregeneration_Modle_Rx)
+Added Component: Designator=P7(CH3.96_2P)
+Added Component: Designator=P8(CH3.96_2P)
+Added Component: Designator=P9(CH3.96_3P)
+Added Component: Designator=P10(HB-9500)
+Added Component: Designator=P11(CH3.96_4P)
+Added Component: Designator=Q1(SOT-23B_L)
+Added Component: Designator=Q2(SOT-23B_L)
+Added Component: Designator=Q3(SOT-23B_L)
+Added Component: Designator=Q4(SOT-23B_L)
+Added Component: Designator=Q5(SOT-23B_L)
+Added Component: Designator=Q6(SOT-23B_L)
+Added Component: Designator=R1(6-0805_N)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(6-0805_N)
+Added Component: Designator=R7(6-0805_N)
+Added Component: Designator=R8(6-0805_N)
+Added Component: Designator=R9(6-0805_N)
+Added Component: Designator=R10(6-0805_N)
+Added Component: Designator=R11(6-0805_N)
+Added Component: Designator=R12(6-0805_N)
+Added Component: Designator=R13(6-0805_N)
+Added Component: Designator=R14(6-0805_N)
+Added Component: Designator=R15(VR5)
+Added Component: Designator=R16(6-0805_N)
+Added Component: Designator=S1(SWP_PB_6.5mm)
+Added Component: Designator=U1(ACtoDCModule_PCB)
+Added Component: Designator=U2(D2PAK_N)
+Added Component: Designator=U3(TO-92A)
+Added Component: Designator=U4(LQFP32)
+Added Component: Designator=U5(MQ)
+Added Component: Designator=Y1(XTAL)
+Added Pin To Net: NetName=+5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=FIRE_D2 Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=FIRE_D1 Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NRST Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=ALDL1 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=ALDL2 Pin=C10-2
+Added Pin To Net: NetName=NetC6_2 Pin=D1-1
+Added Pin To Net: NetName=LED1 Pin=D1-2
+Added Pin To Net: NetName=NetC7_2 Pin=D2-1
+Added Pin To Net: NetName=LED2 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-1
+Added Pin To Net: NetName=LED3 Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetD2_2 Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=NetD5_2 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=NetD6_1 Pin=D8-2
+Added Pin To Net: NetName=+12V Pin=K1-1
+Added Pin To Net: NetName=+12V Pin=K1-1
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetD3_2 Pin=K1-4
+Added Pin To Net: NetName=GND Pin=K1-5
+Added Pin To Net: NetName=+12V Pin=K2-1
+Added Pin To Net: NetName=+12V Pin=K2-1
+Added Pin To Net: NetName=NetK2_3 Pin=K2-3
+Added Pin To Net: NetName=NetD4_2 Pin=K2-4
+Added Pin To Net: NetName=GND Pin=K2-5
+Added Pin To Net: NetName=+12V Pin=K3-1
+Added Pin To Net: NetName=+12V Pin=K3-1
+Added Pin To Net: NetName=NetK3_3 Pin=K3-3
+Added Pin To Net: NetName=NetD2_2 Pin=K3-4
+Added Pin To Net: NetName=GND Pin=K3-5
+Added Pin To Net: NetName=+12V Pin=K4-1
+Added Pin To Net: NetName=+12V Pin=K4-1
+Added Pin To Net: NetName=NetK4_3 Pin=K4-3
+Added Pin To Net: NetName=NetD5_2 Pin=K4-4
+Added Pin To Net: NetName=GND Pin=K4-5
+Added Pin To Net: NetName=+12V Pin=K5-1
+Added Pin To Net: NetName=NetK5_3 Pin=K5-3
+Added Pin To Net: NetName=NetD6_1 Pin=K5-4
+Added Pin To Net: NetName=GND Pin=K5-5
+Added Pin To Net: NetName=+5V Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetD7_1 Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=NetK1_3 Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetK2_3 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=+5V Pin=P5-1
+Added Pin To Net: NetName=NRST Pin=P5-2
+Added Pin To Net: NetName=SWIM Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=+5V Pin=P6-1
+Added Pin To Net: NetName=REMOTE_RX Pin=P6-2
+Added Pin To Net: NetName=REMOTE_RX Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P6-4
+Added Pin To Net: NetName=NetK3_3 Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=NetK4_3 Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=FIRE_D1 Pin=P9-1
+Added Pin To Net: NetName=FIRE_D2 Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Pin To Net: NetName=NetK5_3 Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Pin To Net: NetName=ALDH1 Pin=P11-1
+Added Pin To Net: NetName=ALDH2 Pin=P11-2
+Added Pin To Net: NetName=NetQ5_2 Pin=P11-3
+Added Pin To Net: NetName=GND Pin=P11-4
+Added Pin To Net: NetName=NetD8_1 Pin=Q1-1
+Added Pin To Net: NetName=+5V Pin=Q1-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q1-3
+Added Pin To Net: NetName=NetP4_1 Pin=Q2-1
+Added Pin To Net: NetName=+5V Pin=Q2-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q2-3
+Added Pin To Net: NetName=NetQ1_2 Pin=Q3-1
+Added Pin To Net: NetName=+5V Pin=Q3-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q4-1
+Added Pin To Net: NetName=+5V Pin=Q4-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q4-3
+Added Pin To Net: NetName=NetQ3_2 Pin=Q5-1
+Added Pin To Net: NetName=NetLS1_2 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=NetQ4_2 Pin=Q6-1
+Added Pin To Net: NetName=+5V Pin=Q6-2
+Added Pin To Net: NetName=NetD6_1 Pin=Q6-3
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=NetC6_2 Pin=R1-2
+Added Pin To Net: NetName=NetD7_1 Pin=R2-1
+Added Pin To Net: NetName=SHOCK_DETECT Pin=R2-2
+Added Pin To Net: NetName=NetD8_1 Pin=R3-1
+Added Pin To Net: NetName=PUMP1 Pin=R3-2
+Added Pin To Net: NetName=NetP4_1 Pin=R4-1
+Added Pin To Net: NetName=SVIN Pin=R4-2
+Added Pin To Net: NetName=+5V Pin=R5-1
+Added Pin To Net: NetName=NetC7_2 Pin=R5-2
+Added Pin To Net: NetName=+5V Pin=R6-1
+Added Pin To Net: NetName=NetD1_2 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-1
+Added Pin To Net: NetName=SVOUT Pin=R7-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R8-1
+Added Pin To Net: NetName=PUMP2 Pin=R8-2
+Added Pin To Net: NetName=TEM Pin=R9-1
+Added Pin To Net: NetName=+5V Pin=R9-2
+Added Pin To Net: NetName=FIRE_D2 Pin=R10-1
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=FIRE_D1 Pin=R11-1
+Added Pin To Net: NetName=+5V Pin=R11-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R12-1
+Added Pin To Net: NetName=ALARM Pin=R12-2
+Added Pin To Net: NetName=NRST Pin=R13-1
+Added Pin To Net: NetName=+5V Pin=R13-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R14-1
+Added Pin To Net: NetName=FIRE_UP Pin=R14-2
+Added Pin To Net: NetName=ALCOHOL_M Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=ALDL2 Pin=R16-1
+Added Pin To Net: NetName=ALDL1 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=NRST Pin=S1-2
+Added Pin To Net: NetName=NetP1_2 Pin=U1-1
+Added Pin To Net: NetName=NetP1_1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+12V Pin=U1-5
+Added Pin To Net: NetName=+12V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=TEM Pin=U3-2
+Added Pin To Net: NetName=+5V Pin=U3-3
+Added Pin To Net: NetName=NRST Pin=U4-1
+Added Pin To Net: NetName=ALDL1 Pin=U4-2
+Added Pin To Net: NetName=ALDL2 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetC8_2 Pin=U4-5
+Added Pin To Net: NetName=+5V Pin=U4-6
+Added Pin To Net: NetName=PUMP2 Pin=U4-7
+Added Pin To Net: NetName=PUMP1 Pin=U4-8
+Added Pin To Net: NetName=SVOUT Pin=U4-9
+Added Pin To Net: NetName=SVIN Pin=U4-10
+Added Pin To Net: NetName=FIRE_D1 Pin=U4-11
+Added Pin To Net: NetName=FIRE_D2 Pin=U4-12
+Added Pin To Net: NetName=ALDH1 Pin=U4-13
+Added Pin To Net: NetName=ALDH2 Pin=U4-14
+Added Pin To Net: NetName=NetQ5_2 Pin=U4-15
+Added Pin To Net: NetName=SHOCK_DETECT Pin=U4-17
+Added Pin To Net: NetName=REMOTE_RX Pin=U4-18
+Added Pin To Net: NetName=LED1 Pin=U4-19
+Added Pin To Net: NetName=LED2 Pin=U4-20
+Added Pin To Net: NetName=LED3 Pin=U4-21
+Added Pin To Net: NetName=CSB Pin=U4-24
+Added Pin To Net: NetName=TEM Pin=U4-25
+Added Pin To Net: NetName=SWIM Pin=U4-26
+Added Pin To Net: NetName=ALCOHOL_M Pin=U4-28
+Added Pin To Net: NetName=FIRE_UP Pin=U4-30
+Added Pin To Net: NetName=ALARM Pin=U4-32
+Added Pin To Net: NetName=+5V Pin=U5-1
+Added Pin To Net: NetName=+5V Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=ALCOHOL_M Pin=U5-6
+Added Pin To Net: NetName=ALDL2 Pin=Y1-1
+Added Pin To Net: NetName=ALDL1 Pin=Y1-2
+Change Net Name : Old Net Name=ALDL1 New Net Name=NetC9_2
+Change Net Name : Old Net Name=ALDL2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=ALDL
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C3 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C4 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C9 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C10 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D1 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D2 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D3 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D4 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D5 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D6 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D7 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D8 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K1 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K2 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K3 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K4 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K5 Relay_L
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component LS1 Buzzer
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P1 Fire_Header_100/240V
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P2 Shock_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P3 Pump1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P4 Solenoid_valve_In
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P5 Header 4H
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P6 Superregeneration_Module_Rx
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P7 Solenoid_valve_Out
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P8 Pump2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P9 Fire_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P10 Fire_Up
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P11 CH3.96_4P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q1 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q2 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q3 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q4 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q5 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q6 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R1 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R2 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R3 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R4 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R5 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R6 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R7 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R8 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R9 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R10 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R11 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R12 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R13 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R14 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R15 Res_Pot
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R16 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component S1 SW-PB
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U1 AC2DC
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U2 L7805CD2T-TR
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U3 DS18B20
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U4 STM8S903K3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U5 MQ_Alcohol
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Y1 16MHz
+Added Room: Name=Alcohol_Fireplace

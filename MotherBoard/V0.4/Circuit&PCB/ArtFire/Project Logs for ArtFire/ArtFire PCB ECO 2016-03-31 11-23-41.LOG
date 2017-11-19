@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=SR_D0 Pin=P9-6
+Removed Pin From Net: NetName=SR_D1 Pin=P9-7
+Removed Pin From Net: NetName=SR_D2 Pin=P9-8
+Removed Pin From Net: NetName=ALDC1 Pin=U6-15
+Removed Pin From Net: NetName=ALDC2 Pin=U6-20
+Removed Pin From Net: NetName=+3.3V Pin=U7-4
+Removed Pin From Net: NetName=YF_RESET Pin=U7-6
+Removed Pin From Net: NetName=YF_DATA Pin=U7-7
+Removed Pin From Net: NetName=YF_BUSY Pin=U7-8
+Removed Member From Class: ClassName=ArtFire Member=R?
+Added Component: Designator=P1(CH3.96_2P)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R36(6-0805_N)
+Added Component: Designator=R37(6-0805_N)
+Added Component: Designator=R38(6-0805_N)
+Added Component: Designator=R39(6-0805_N)
+Added Component: Designator=R40(6-0805_N)
+Added Component: Designator=R41(6-0805_N)
+Added Pin To Net: NetName=+3.3V Pin=P1-1
+Added Pin To Net: NetName=ALCOHOL_C Pin=P1-2
+Added Pin To Net: NetName=ALDC1 Pin=P9-6
+Added Pin To Net: NetName=ALDC2 Pin=P9-7
+Added Pin To Net: NetName=ALDC1 Pin=R5-1
+Added Pin To Net: NetName=SR_D0 Pin=R5-2
+Added Pin To Net: NetName=ALDC2 Pin=R36-1
+Added Pin To Net: NetName=SR_D1 Pin=R36-2
+Added Pin To Net: NetName=SR_D2 Pin=R37-2
+Added Pin To Net: NetName=YF_BUSY Pin=R38-2
+Added Pin To Net: NetName=YF_DATA Pin=R39-2
+Added Pin To Net: NetName=YF_RESET Pin=R40-2
+Added Pin To Net: NetName=PGND Pin=R41-1
+Added Pin To Net: NetName=ALCOHOL_C Pin=R41-2
+Added Pin To Net: NetName=ALCOHOL_C Pin=U6-15
+Added Pin To Net: NetName=+5V Pin=U7-4
+Change Net Name : Old Net Name=ALDC1 New Net Name=NetP9_6
+Change Net Name : Old Net Name=ALDC2 New Net Name=NetP9_7
+Added Pin To Net: NetName=NetP9_8 Pin=P9-8
+Added Pin To Net: NetName=NetP9_8 Pin=R37-1
+Added Net: Name=NetP9_8
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR38_1 Pin=U7-8
+Added Net: Name=NetR38_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=U7-7
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=U7-6
+Added Net: Name=NetR40_1
+Added Member To Class: ClassName=ArtFire Member=Component P1 Pump2
+Added Member To Class: ClassName=ArtFire Member=Component R5 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R36 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R37 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R38 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R39 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R40 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R41 Res3
+Added Room: Name=ArtFire

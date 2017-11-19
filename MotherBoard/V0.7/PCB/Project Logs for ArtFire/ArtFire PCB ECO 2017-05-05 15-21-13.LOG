@@ -1,0 +1,10 @@
+Added Component: Designator=U5(ESP-07_Wifi)
+Added Pin To Net: NetName=+3.3V Pin=U5-1
+Added Pin To Net: NetName=NetR24_1 Pin=U5-3
+Added Pin To Net: NetName=+3.3V Pin=U5-8
+Added Pin To Net: NetName=SGND Pin=U5-9
+Added Pin To Net: NetName=NetR28_1 Pin=U5-10
+Added Pin To Net: NetName=WIFI_RX Pin=U5-15
+Added Pin To Net: NetName=WIFI_TX Pin=U5-16
+Added Member To Class: ClassName=ArtFire Member=Component U5 ESP-07
+Added Room: Name=ArtFire

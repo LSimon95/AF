@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+5V Pin=P4-1
+Change Component Description : Designator=U2 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Pin To Net: NetName=+3.3V Pin=P4-1
+Added Room: Name=ArtFire

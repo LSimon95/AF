@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FP6291EN Pin=U4-14
+Removed Pin From Net: NetName=S\T\D\B\Y\ Pin=U4-16
+Removed Pin From Net: NetName=C\H\R\G\ Pin=U4-17
+Added Pin To Net: NetName=S\T\D\B\Y\ Pin=U4-14
+Added Pin To Net: NetName=C\H\R\G\ Pin=U4-15
+Added Pin To Net: NetName=FP6291EN Pin=U4-16
+Added Room: Name=AdControl

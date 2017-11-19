@@ -1,0 +1,62 @@
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C3 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C4 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C9 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C10 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C11 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D1 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D2 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D4 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D5 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D6 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D8 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K2 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K3 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K5 Relay_L
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component LS1 Buzzer
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P1 Fire_Header_100/240V
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P2 Shock_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P3 Pump1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P4 Solenoid_valve_In
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P5 Header 4H
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P6 Superregeneration_Module_Rx
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P7 Solenoid_valve_Out
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P8 Pump2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P9 CH3.96_4P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P10 CH3.96_4P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P11 UART_Debug
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P12 Fire_Up
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P13 CH3.96_2P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P14 CH3.96_2P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q2 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q3 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q5 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q6 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R1 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R2 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R4 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R5 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R6 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R7 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R9 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R10 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R11 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R12 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R13 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R14 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R15 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R16 Res_Pot
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R17 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component S1 SW-PB
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U1 AC2DC
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U2 L7805CD2T-TR
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U3 DS18B20
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U4 STM8S105C
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U5 MQ_Alcohol
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Y1 16MHz
+Added Room: Name=Alcohol_Fireplace

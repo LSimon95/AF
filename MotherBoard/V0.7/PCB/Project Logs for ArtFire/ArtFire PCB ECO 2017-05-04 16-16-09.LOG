@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P4 Old Footprint=KF3.96_2P New Footprint=KF7.62-2P
+Change Component Comment : Designator=P4 Old Comment=Fire_UP New Comment=thermoelectric_couple_f
+Added Pin To Net: NetName=NetC24_1 Pin=U9-4
+Added Room: Name=ArtFire

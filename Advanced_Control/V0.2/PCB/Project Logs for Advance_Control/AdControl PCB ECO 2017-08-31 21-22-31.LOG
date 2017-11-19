@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CO2PWM Pin=P1-1
+Removed Pin From Net: NetName=+5V Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Removed Member From Class: ClassName=AdControl Member=P1
+Change Component Comment : Designator=L1 Old Comment=Inductor Iron CD45 New Comment=Inductor Iron CD54
+Added Component: Designator=U7(MH-Z14A)
+Added Pin To Net: NetName=+5V Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=CO2PWM Pin=U7-6
+Added Member To Class: ClassName=AdControl Member=Component U7 MH-Z14A
+Added Room: Name=AdControl

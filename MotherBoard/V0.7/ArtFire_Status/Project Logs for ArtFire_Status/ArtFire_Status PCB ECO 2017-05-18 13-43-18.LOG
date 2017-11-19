@@ -1,0 +1,35 @@
+Added Component: Designator=D1(LED-1)
+Added Component: Designator=D2(LED-1)
+Added Component: Designator=D3(LED-1)
+Added Component: Designator=P1(XH2.54-7P)
+Added Component: Designator=P2(ArtFire_Source_Connector)
+Added Component: Designator=P3(ArtFire_Source_Connector)
+Added Component: Designator=S1(KEY_B)
+Added Pin To Net: NetName=+3.3V Pin=P1-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=D2-1
+Added Pin To Net: NetName=+5V Pin=D3-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=P1-3
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=P1-4
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=S1-2
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=P3-2
+Added Net: Name=NetP2_1
+Added Class: Name=ArtFire_Status
+Added Room: Name=ArtFire_Status

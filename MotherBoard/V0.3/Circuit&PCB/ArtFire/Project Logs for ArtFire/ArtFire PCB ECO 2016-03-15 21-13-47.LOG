@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3V Pin=C21-1
+Removed Pin From Net: NetName=SGND Pin=C21-2
+Removed Pin From Net: NetName=+3.3V Pin=C23-1
+Removed Pin From Net: NetName=SGND Pin=C23-2
+Removed Pin From Net: NetName=+3.3V Pin=C25-1
+Removed Pin From Net: NetName=SGND Pin=C25-2
+Removed Pin From Net: NetName=+3.3V Pin=C27-1
+Removed Pin From Net: NetName=SGND Pin=C27-2
+Removed Member From Class: ClassName=ArtFire Member=C21
+Removed Member From Class: ClassName=ArtFire Member=C23
+Removed Member From Class: ClassName=ArtFire Member=C25
+Removed Member From Class: ClassName=ArtFire Member=C27
+Added Room: Name=ArtFire

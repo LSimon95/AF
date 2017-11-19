@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FHD_IN Pin=U10-8
+Removed Pin From Net: NetName=FLD_IN Pin=U10-9
+Added Pin To Net: NetName=FLD_IN Pin=U10-8
+Added Pin To Net: NetName=FHD_IN Pin=U10-9

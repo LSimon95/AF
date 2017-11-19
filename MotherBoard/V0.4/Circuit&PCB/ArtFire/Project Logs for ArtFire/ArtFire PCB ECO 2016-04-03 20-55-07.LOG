@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12V Pin=CB1-1
+Removed Pin From Net: NetName=NetCB1_2 Pin=CB1-2
+Removed Pin From Net: NetName=+12V Pin=P3-1
+Removed Pin From Net: NetName=NetCB1_2 Pin=R2-2
+Added Pin To Net: NetName=NetCB1_2 Pin=CB1-1
+Added Pin To Net: NetName=+12V Pin=CB1-2
+Added Pin To Net: NetName=NetCB1_2 Pin=P3-1
+Added Pin To Net: NetName=+12V Pin=R2-2
+Change Net Name : Old Net Name=NetCB1_2 New Net Name=NetCB1_1
+Added Room: Name=ArtFire

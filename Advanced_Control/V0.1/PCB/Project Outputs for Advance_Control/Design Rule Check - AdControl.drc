@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : F:\Google Drive\Document\Work\In_Progress\MrSong\Alcohol_Fire\Advanced_Control\V0.1\PCB\AdControl.PcbDoc
+Date     : 2017-05-30
+Time     : 14:03:38
+
+Processing Rule : Rule
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1728.74mil,1201.575mil)(1728.74mil,1380.217mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "U5" (752.567mil,1858mil)  Top Overlay
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Via (553.346mil,175mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+   Violation between Via (553.346mil,218.307mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+   Violation between Via (553.346mil,131.693mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+   Violation between Via (596.654mil,175mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+   Violation between Via (596.654mil,218.307mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+   Violation between Via (596.654mil,131.693mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(575mil,175mil)  Top Layer
+Rule Violations :6
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=1000mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Time Elapsed        : 00:00:02

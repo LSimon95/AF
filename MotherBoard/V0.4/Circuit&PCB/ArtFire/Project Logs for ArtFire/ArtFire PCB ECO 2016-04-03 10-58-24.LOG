@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR26_2 Pin=U10-3
+Added Component: Designator=P4(XH2.54-2P)
+Added Pin To Net: NetName=+5V Pin=P4-1
+Added Pin To Net: NetName=PGND Pin=P4-2
+Added Pin To Net: NetName=PGND Pin=P16-1
+Added Pin To Net: NetName=PGND Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R27-1
+Added Pin To Net: NetName=NetR26_2 Pin=U10-2
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=U10-3
+Added Net: Name=NetR30_2
+Added Member To Class: ClassName=ArtFire Member=Component P4 Fan
+Added Room: Name=ArtFire

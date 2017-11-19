@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ArtFire.PrjPcb]
+   Generated File[ArtFire.TXT]
+   Generated File[ArtFire.LDP]
+   Generated File[ArtFire.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:51:17 On 2017-09-05

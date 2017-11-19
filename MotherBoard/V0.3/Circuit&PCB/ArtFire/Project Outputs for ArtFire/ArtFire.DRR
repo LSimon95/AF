@@ -1,0 +1,26 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ArtFire.PcbDoc   2016-03-17  11:23:54
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArtFire.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          84               16.58 Inch (421.04 mm)
+T2        15mil (0.381mm)          Round          28               9.92 Inch (252.05 mm)
+T3        19.68mil (0.49987mm)     Round          2                0.08 Inch (2.00 mm)
+T4        20mil (0.508mm)          Round          29               12.17 Inch (309.16 mm)
+T5        27.56mil (0.70002mm)     Round          3                0.20 Inch (5.08 mm)
+T6        30mil (0.762mm)          Round          9                5.43 Inch (137.98 mm)
+T7        31.5mil (0.8001mm)       Round          15               3.74 Inch (95.04 mm)
+T8        35.43mil (0.89992mm)     Round          21               7.26 Inch (184.52 mm)
+T9        39.37mil (1mm)           Round          29               12.95 Inch (328.86 mm)
+T10       47.24mil (1.1999mm)      Round          2                0.26 Inch (6.50 mm)
+T11       59.06mil (1.50012mm)     Round          8                6.04 Inch (153.50 mm)
+T12       70mil (1.778mm)          Round          9                2.95 Inch (74.85 mm)
+T13       78.74mil (2mm)           Round          5                3.14 Inch (79.72 mm)
+---------------------------------------------------------------------------
+Totals                                            244              80.72 Inch (2050.30 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

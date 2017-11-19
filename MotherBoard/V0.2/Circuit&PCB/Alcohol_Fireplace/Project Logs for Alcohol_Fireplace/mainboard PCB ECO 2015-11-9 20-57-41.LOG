@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=FIRE_D1 Pin=U4-43
+Removed Pin From Net: NetName=FIRE_D2 Pin=U4-44
+Added Pin To Net: NetName=GND Pin=P11-2
+Added Pin To Net: NetName=FIRE_UP Pin=U4-37
+Added Pin To Net: NetName=FIRE_D2 Pin=U4-43
+Added Pin To Net: NetName=FIRE_D1 Pin=U4-44
+Added Pin To Net: NetName=NetP11_1 Pin=P11-1
+Added Pin To Net: NetName=NetP11_1 Pin=U4-46
+Added Net: Name=NetP11_1
+Added Room: Name=Alcohol_Fireplace

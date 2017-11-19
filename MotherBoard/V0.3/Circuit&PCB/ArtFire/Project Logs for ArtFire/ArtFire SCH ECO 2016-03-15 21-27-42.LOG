@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Q2 Old Footprint=SOT23_L New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q4 Old Footprint=SOT23_L New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q7 Old Footprint=SOT23_L New Footprint=TO-226-AA
+Change Component Footprint: Designator=Q9 Old Footprint=SOT23_L New Footprint=TO-226-AA
+Change Component Comment: Designator=P10 Old Comment=Pump_BAK New Comment=KF3.96_2P

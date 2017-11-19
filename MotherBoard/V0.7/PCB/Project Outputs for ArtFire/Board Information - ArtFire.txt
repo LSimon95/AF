@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\Google Drive\Document\Work\In_Progress\MrSong\Alcohol_Fire\V0.7\PCB\ArtFire.PcbDoc
+Date         : 2017-09-05
+Time         : 10:52:27
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 99.75%
+    Connections, 399
+    Connections routed, 398
+    Connections remaining, 1
+count : 4

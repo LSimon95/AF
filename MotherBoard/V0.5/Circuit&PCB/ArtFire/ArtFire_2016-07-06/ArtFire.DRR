@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ArtFire.PcbDoc   2016-07-06  14:27:25
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ArtFire.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        10mil (0.254mm)          Round          117              21.97 Inch (557.96 mm)
+T2        20mil (0.508mm)          Round          20               11.07 Inch (281.25 mm)
+T3        25mil (0.635mm)          Round          8                4.86 Inch (123.49 mm)
+T4        30mil (0.762mm)          Round          2                0.30 Inch (7.60 mm)
+T5        31.5mil (0.8001mm)       Round          25               9.08 Inch (230.70 mm)
+T6        35.43mil (0.89992mm)     Round          25               8.54 Inch (217.01 mm)
+T7        39.37mil (1mm)           Round          26               13.08 Inch (332.27 mm)
+T8        43.31mil (1.10007mm)     Round          2                0.20 Inch (5.08 mm)
+T9        47.24mil (1.1999mm)      Round          2                0.26 Inch (6.50 mm)
+T10       50mil (1.27mm)           Round          7                3.94 Inch (100.06 mm)
+T11       59.06mil (1.50012mm)     Round          8                3.75 Inch (95.30 mm)
+T12       70mil (1.778mm)          Round          7                2.17 Inch (54.99 mm)
+T13       78.74mil (2mm)           Round          2                0.37 Inch (9.50 mm)
+T14       80mil (2.032mm)          Round          1                0.00 Inch (0.00 mm)
+T15       86.61mil (2.19989mm)     Round          4                7.39 Inch (187.65 mm)
+T16       125.98mil (3.19989mm)    Round          5                4.40 Inch (111.81 mm)
+---------------------------------------------------------------------------
+Totals                                            261              91.39 Inch (2321.18 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

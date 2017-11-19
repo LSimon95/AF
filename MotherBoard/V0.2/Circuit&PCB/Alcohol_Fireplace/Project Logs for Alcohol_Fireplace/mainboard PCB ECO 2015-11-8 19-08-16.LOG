@@ -1,0 +1,8 @@
+Added Component: Designator=R17(6-0805_N)
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R11-2
+Added Pin To Net: NetName=ALCOHOL_M Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P10 Fire_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R17 Res3
+Added Room: Name=Alcohol_Fireplace

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ALCOHOL_C Pin=U6-9
+Removed Pin From Net: NetName=ALC Pin=U6-10
+Added Pin To Net: NetName=ALC Pin=U6-9
+Added Pin To Net: NetName=ALCOHOL_C Pin=U6-10
+Added Room: Name=ArtFire

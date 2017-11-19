@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+3.3V Pin=R25-1
+Change Component Comment : Designator=P1 Old Comment=Pump2 New Comment=Alcohol_C
+Added Pin To Net: NetName=SGND Pin=R25-1

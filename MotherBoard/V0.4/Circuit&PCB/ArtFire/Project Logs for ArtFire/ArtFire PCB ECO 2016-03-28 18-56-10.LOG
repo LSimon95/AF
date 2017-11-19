@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+12V Pin=C1-1
+Removed Pin From Net: NetName=PGND Pin=C1-2
+Removed Pin From Net: NetName=+12V Pin=P1-1
+Removed Pin From Net: NetName=PUMP1 Pin=P1-2
+Removed Pin From Net: NetName=PGND Pin=P1-3
+Removed Pin From Net: NetName=ALDC1 Pin=P4-1
+Removed Pin From Net: NetName=ALDC2 Pin=P4-2
+Removed Pin From Net: NetName=PGND Pin=P4-3
+Removed Pin From Net: NetName=+5V Pin=R19-2
+Removed Pin From Net: NetName=+5V Pin=U7-4
+Removed Pin From Net: NetName=+5V Pin=U8-3
+Removed Pin From Net: NetName=+5V Pin=U9-1
+Removed Member From Class: ClassName=ArtFire Member=C1
+Removed Member From Class: ClassName=ArtFire Member=P1
+Removed Member From Class: ClassName=ArtFire Member=P4
+Change Component Comment : Designator=P10 Old Comment=Pump_BAK New Comment=Pump_1
+Added Component: Designator=R?(6-0805_N)
+Added Pin To Net: NetName=+3.3V Pin=R19-2
+Added Pin To Net: NetName=+3.3V Pin=U7-4
+Added Pin To Net: NetName=+3.3V Pin=U8-3
+Added Pin To Net: NetName=+3.3V Pin=U9-1
+Added Member To Class: ClassName=ArtFire Member=Component R? Res3
+Added Room: Name=ArtFire

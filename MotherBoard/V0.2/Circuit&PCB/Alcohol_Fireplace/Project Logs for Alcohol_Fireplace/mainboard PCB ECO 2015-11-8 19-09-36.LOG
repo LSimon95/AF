@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P10 Old Footprint=CH3.96_3P New Footprint=CH3.96_4P
+Change Component Comment : Designator=P10 Old Comment=Fire_Detect New Comment=CH3.96_4P
+Change Component Library : Designator=P9 Old Library=CH3.96.IntLib New Library=CH3.96.SchLib
+Added Pin To Net: NetName=GND Pin=P10-4
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R11-2

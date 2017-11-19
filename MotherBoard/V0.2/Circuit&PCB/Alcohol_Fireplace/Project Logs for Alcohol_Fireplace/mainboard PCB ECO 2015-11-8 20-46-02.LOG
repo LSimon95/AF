@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC9_2 Pin=U4-2
+Added Pin To Net: NetName=FIRE_D2 Pin=R11-2
+Added Pin To Net: NetName=ALOVR Pin=R12-2
+Added Pin To Net: NetName=NetC8_2 Pin=U4-2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D8 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P10 CH3.96_4P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R14 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U5 MQ_Alcohol
+Added Room: Name=Alcohol_Fireplace

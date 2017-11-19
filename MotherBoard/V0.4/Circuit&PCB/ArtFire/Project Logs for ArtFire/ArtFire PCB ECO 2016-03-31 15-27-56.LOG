@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DEBUG_RX Pin=P12-2
+Removed Pin From Net: NetName=DEBUG_TX Pin=P12-3
+Added Pin To Net: NetName=DEBUG_TX Pin=P12-2
+Added Pin To Net: NetName=DEBUG_RX Pin=P12-3
+Added Room: Name=ArtFire

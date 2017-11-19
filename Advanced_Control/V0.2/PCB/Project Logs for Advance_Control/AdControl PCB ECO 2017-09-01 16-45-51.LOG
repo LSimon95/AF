@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CO2PWM Pin=U4-10
+Removed Pin From Net: NetName=DEBUG_TX Pin=U4-12
+Removed Pin From Net: NetName=DEBUG_RX Pin=U4-13
+Removed Pin From Net: NetName=S\T\D\B\Y\ Pin=U4-14
+Removed Pin From Net: NetName=C\H\R\G\ Pin=U4-15
+Removed Pin From Net: NetName=FP6291EN Pin=U4-16
+Removed Pin From Net: NetName=HIMRXD Pin=U4-21
+Removed Pin From Net: NetName=HIMTXD Pin=U4-22
+Removed Pin From Net: NetName=WIFI_RX Pin=U4-30
+Removed Pin From Net: NetName=WIFI_TX Pin=U4-31
+Removed Pin From Net: NetName=SWDIO Pin=U4-34
+Removed Pin From Net: NetName=SWCLK Pin=U4-37
+Added Room: Name=AdControl

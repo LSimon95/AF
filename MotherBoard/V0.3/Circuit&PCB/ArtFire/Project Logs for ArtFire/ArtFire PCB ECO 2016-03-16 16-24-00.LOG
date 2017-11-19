@@ -1,0 +1,5 @@
+Added Component: Designator=C21(CAP_10*10MM)
+Added Pin To Net: NetName=NetC2_2 Pin=C21-1
+Added Pin To Net: NetName=NetC2_2 Pin=C21-2
+Added Member To Class: ClassName=ArtFire Member=Component C21 Cap Pol1
+Added Room: Name=ArtFire

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=P13 Old Footprint=KF3.96_2P New Footprint=KF7.62-2P
+Added Pin To Net: NetName=+12V Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=U2-1
+Added Pin To Net: NetName=PGND Pin=U2-3
+Added Pin To Net: NetName=PGND Pin=U2-5
+Added Room: Name=ArtFire

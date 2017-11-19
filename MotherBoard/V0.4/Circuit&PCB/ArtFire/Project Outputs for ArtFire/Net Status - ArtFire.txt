@@ -1,0 +1,88 @@
+Net Status Report
+Filename     : F:\Document\Alcohol_Fire\V0.3\Circuit&PCB\ArtFire\ArtFire.PcbDoc
+Date         : 2016-03-17
+Time         : 8:35:10
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12V, Signal Layers Only, 9699.902mils
+    +3.3V, Signal Layers Only, 11823.611mils
+    +5V, Signal Layers Only, 11095.602mils
+    ADH, Signal Layers Only, 2056.044mils
+    ADL, Signal Layers Only, 2128.19mils
+    ALCOHOL_C, Signal Layers Only, 1692.655mils
+    ALDC1, Signal Layers Only, 2352.044mils
+    ALDC2, Signal Layers Only, 2058.647mils
+    BEE, Signal Layers Only, 955.755mils
+    DEBUG_RX, Signal Layers Only, 369.381mils
+    DEBUG_TX, Signal Layers Only, 327.326mils
+    E2_SCL, Signal Layers Only, 322.251mils
+    E2_SDA, Signal Layers Only, 305.197mils
+    FAN, Signal Layers Only, 1017.237mils
+    FHD, Signal Layers Only, 2018.415mils
+    FIRE_TEM_D, Signal Layers Only, 1822.559mils
+    FIRE_UP, Signal Layers Only, 2727.431mils
+    FLD, Signal Layers Only, 2233.846mils
+    IO1, Signal Layers Only, 1819.737mils
+    IO2, Signal Layers Only, 1906.051mils
+    IO3, Signal Layers Only, 1972.855mils
+    IO4, Signal Layers Only, 2037.358mils
+    IO5, Signal Layers Only, 2102.522mils
+    LDHD, Signal Layers Only, 1463.111mils
+    LDLD, Signal Layers Only, 1894.158mils
+    MMA_SCL, Signal Layers Only, 1622.366mils
+    MMA_SDA, Signal Layers Only, 1165.11mils
+    NetBT1_1, Signal Layers Only, 1892.827mils
+    NetC10_2, Signal Layers Only, 1154.509mils
+    NetC11_2, Signal Layers Only, 106.638mils
+    NetC14_1, Signal Layers Only, 439.428mils
+    NetC15_1, Signal Layers Only, 367.432mils
+    NetC18_2, Signal Layers Only, 397.301mils
+    NetC19_2, Signal Layers Only, 325.43mils
+    NetC23_2, Signal Layers Only, 1587.069mils
+    NetC2_2, Signal Layers Only, 1260.631mils
+    NetC9_2, Signal Layers Only, 625.464mils
+    NetD1_1, Signal Layers Only, 79.134mils
+    NetLS1_2, Signal Layers Only, 161.102mils
+    NetP13_1, Signal Layers Only, 1463.554mils
+    NetP13_2, Signal Layers Only, 1530.064mils
+    NetP16_1, Signal Layers Only, 426.809mils
+    NetP7_2, Signal Layers Only, 399.211mils
+    NetQ1_1, Signal Layers Only, 444.655mils
+    NetQ2_1, Signal Layers Only, 103.74mils
+    NetQ3_1, Signal Layers Only, 405.033mils
+    NetQ4_1, Signal Layers Only, 106.524mils
+    NetQ5_1, Signal Layers Only, 114.197mils
+    NetQ6_1, Signal Layers Only, 417.21mils
+    NetQ7_1, Signal Layers Only, 103.74mils
+    NetQ8_1, Signal Layers Only, 443.525mils
+    NetQ9_1, Signal Layers Only, 106.524mils
+    NetR11_1, Signal Layers Only, 259.294mils
+    NetR25_2, Signal Layers Only, 251.397mils
+    NetR26_2, Signal Layers Only, 370.434mils
+    NetR27_1, Signal Layers Only, 320.657mils
+    NetR27_2, Signal Layers Only, 363.703mils
+    NetR9_1, Signal Layers Only, 318.531mils
+    PGND, Signal Layers Only, 4378.591mils
+    PUMP1, Signal Layers Only, 1501.466mils
+    PUMP2, Signal Layers Only, 2123.573mils
+    PUMP_BAK, Signal Layers Only, 1223.11mils
+    SGND, Signal Layers Only, 4048.509mils
+    SR_D0, Signal Layers Only, 1452.934mils
+    SR_D1, Signal Layers Only, 1394.572mils
+    SR_D2, Signal Layers Only, 1312.928mils
+    SR_LED, Signal Layers Only, 0mils
+    SR_SW, Signal Layers Only, 0mils
+    SR_VT, Signal Layers Only, 1806.824mils
+    SWCLK, Signal Layers Only, 1441.174mils
+    SWDIO, Signal Layers Only, 1578.054mils
+    TEM, Signal Layers Only, 1194.788mils
+    TTIM_IO, Signal Layers Only, 648.717mils
+    TTIM_RSI, Signal Layers Only, 711.325mils
+    TTIM_SCLK, Signal Layers Only, 620.411mils
+    WIFI_RX, Signal Layers Only, 2091.895mils
+    WIFI_TX, Signal Layers Only, 2185.925mils
+    YF_BUSY, Signal Layers Only, 1173.495mils
+    YF_DATA, Signal Layers Only, 1069.074mils
+    YF_RESET, Signal Layers Only, 965.244mils
+count : 80

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : F:\Google Drive\Document\Work\In_Progress\MrSong\Alcohol_Fire\Advanced_Control\V0.1\PCB\AdControl.PcbDoc
+Date         : 2017-05-30
+Time         : 14:01:53
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 98.28%
+    Connections, 116
+    Connections routed, 114
+    Connections remaining, 2
+count : 4

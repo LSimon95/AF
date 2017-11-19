@@ -1,0 +1,76 @@
+Protel Design System Design Rule Check
+PCB File : F:\Google Drive\Document\Work\In_Progress\MrSong\Alcohol_Fire\Advanced_Control\V0.2\PCB\AdControl.PcbDoc
+Date     : 2017-09-05
+Time     : 16:34:55
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=1000mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Via (1379.496mil,498.157mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+   Violation between Via (1379.496mil,541.465mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+   Violation between Via (1466.11mil,498.157mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+   Violation between Via (1422.803mil,498.157mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+   Violation between Via (1466.11mil,541.465mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+   Violation between Via (1422.803mil,541.465mil) Top Layer to Bottom Layer and 
+                     Pad U1-9(1422.803mil,519.811mil)  Top Layer
+Rule Violations :6
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad U7-0(3121.157mil,-69.984mil)  Multi-Layer
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad U7-0(3121.157mil,1681.984mil)  Multi-Layer
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad U7-0(1979.425mil,1681.984mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-0(3464.567mil,1614.173mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-0(3464.567mil,0mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-0(0mil,0mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-0(0mil,1614.173mil)  Multi-Layer
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1881mil,-444mil)(3247.142mil,-444mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1881mil,-444mil)(1881mil,1819.78mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1881mil,1819.78mil)(3247.142mil,1819.78mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (3247.142mil,-444mil)(3247.142mil,1819.78mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1673.228mil,-153.543mil)(1673.228mil,283.465mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1476.378mil,-153.543mil)(1673.228mil,-153.543mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (1476.378mil,-153.543mil)(1476.378mil,283.465mil)  Top Overlay
+Rule Violations :7
+
+Processing Rule : Rule
+Rule Violations :0
+
+
+Violations Detected : 20
+Time Elapsed        : 00:00:01

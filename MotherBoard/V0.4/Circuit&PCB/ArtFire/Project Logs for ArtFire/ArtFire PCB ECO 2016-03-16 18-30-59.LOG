@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TEM Pin=U6-24
+Added Pin To Net: NetName=TEM Pin=U6-39
+Added Room: Name=ArtFire

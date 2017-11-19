@@ -1,0 +1,269 @@
+Removed Pin From Net: NetName=+5V Pin=C2-1
+Removed Pin From Net: NetName=PGND Pin=C2-2
+Removed Pin From Net: NetName=+5V Pin=C8-1
+Removed Pin From Net: NetName=+5V Pin=L1-2
+Removed Pin From Net: NetName=PGND Pin=P3-2
+Removed Pin From Net: NetName=NetC1_2 Pin=R2-2
+Removed Pin From Net: NetName=SGND Pin=R8-1
+Removed Pin From Net: NetName=FIRE_TEM_D Pin=R46-1
+Removed Pin From Net: NetName=PGND Pin=R47-1
+Removed Pin From Net: NetName=FIRE_TEM_D Pin=R47-2
+Removed Pin From Net: NetName=FIRE_TEM_T Pin=R55-1
+Removed Pin From Net: NetName=PGND Pin=R56-1
+Removed Pin From Net: NetName=FIRE_TEM_T Pin=R56-2
+Removed Pin From Net: NetName=SGND Pin=U2-2
+Removed Pin From Net: NetName=PGND Pin=U2-4
+Removed Pin From Net: NetName=+5V Pin=U2-6
+Removed Pin From Net: NetName=+5V Pin=U3-4
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=U2 Old DesignItemId=CMP-0057-00416-2 New DesignItemId=M62429
+Change Component Footprint: Designator=C6 Old Footprint=6-0805_N New Footprint=Cap_5*4mm
+Change Component Footprint: Designator=C3 Old Footprint=CAP_6.3*5.4MM New Footprint=6-0805_N
+Change Component Footprint: Designator=U2 Old Footprint=M08A_M New Footprint=SO8_N
+Change Component Comment : Designator=C3 Old Comment=Cap Pol1 New Comment=Cap Semi
+Change Component Comment : Designator=C6 Old Comment=Cap Semi New Comment=Cap Pol1
+Change Component Comment : Designator=U2 Old Comment=LM386M-1/NOPB New Comment=M62429
+Change Component Comment : Designator=P3 Old Comment=Speaker New Comment=Fan
+Change Component Description : Designator=U3 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Component: Designator=C47(CAP_6.3*5.4MM)
+Added Component: Designator=L2(6-0805_L)
+Added Component: Designator=L3(IND_0630)
+Added Component: Designator=R63(6-0805_N)
+Added Component: Designator=U17(SO8_L)
+Added Pin To Net: NetName=PGND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C6-1
+Added Pin To Net: NetName=PGND Pin=C6-2
+Added Pin To Net: NetName=+5V Pin=C47-1
+Added Pin To Net: NetName=PGND Pin=C47-2
+Added Pin To Net: NetName=+5V Pin=L2-2
+Added Pin To Net: NetName=+5V Pin=L3-2
+Added Pin To Net: NetName=PGND Pin=R8-1
+Added Pin To Net: NetName=FIRE_TEM_D Pin=R42-2
+Added Pin To Net: NetName=SWDIO Pin=R47-1
+Added Pin To Net: NetName=FIRE_TEM_T Pin=R51-2
+Added Pin To Net: NetName=SWCLK Pin=R55-1
+Added Pin To Net: NetName=DEBUG_TX Pin=R56-1
+Added Pin To Net: NetName=DEBUG_RX Pin=R63-1
+Added Pin To Net: NetName=NetC1_2 Pin=U2-1
+Added Pin To Net: NetName=PGND Pin=U2-3
+Added Pin To Net: NetName=FIRE_TEM_D Pin=U11-1
+Added Pin To Net: NetName=FIRE_TEM_T Pin=U11-7
+Added Pin To Net: NetName=+5V Pin=U17-5
+Added Pin To Net: NetName=PGND Pin=U17-8
+Added Pin To Net: NetName=CS_SD Pin=R2-1
+Added Net: Name=CS_SD
+Added Pin To Net: NetName=M6_CLK Pin=U2-5
+Added Net: Name=M6_CLK
+Added Pin To Net: NetName=M6_DATA Pin=U2-4
+Added Net: Name=M6_DATA
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R46-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=L1-2
+Added Pin To Net: NetName=NetC8_1 Pin=L3-1
+Added Pin To Net: NetName=NetC8_1 Pin=U3-4
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-6
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U17-7
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U17-6
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U17-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U17-2
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U17-3
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR46_2 Pin=R46-2
+Added Pin To Net: NetName=NetR46_2 Pin=U17-4
+Added Net: Name=NetR46_2
+Added Member To Class: ClassName=ArtFire Member=Component C1 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C2 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C3 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C5 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C6 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C7 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C8 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C9 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C10 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C11 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C12 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C13 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C14 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C15 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C16 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C17 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C18 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C19 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C20 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C21 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C22 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C23 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C24 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C25 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C26 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C27 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C28 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C29 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C30 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C31 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C32 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C33 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C34 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C35 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C36 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C37 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C38 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C39 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C40 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C41 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C42 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C43 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C44 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C45 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C46 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C47 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component C49 Cap Semi
+Added Member To Class: ClassName=ArtFire Member=Component C50 Cap Pol1
+Added Member To Class: ClassName=ArtFire Member=Component CB1 RF16700
+Added Member To Class: ClassName=ArtFire Member=Component D1 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D2 PWR
+Added Member To Class: ClassName=ArtFire Member=Component D3 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D4 1N5822
+Added Member To Class: ClassName=ArtFire Member=Component D5 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D6 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D7 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D8 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D9 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D10 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D11 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D12 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D13 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D14 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D15 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D16 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component D17 Diode US1M
+Added Member To Class: ClassName=ArtFire Member=Component L1 Inductor
+Added Member To Class: ClassName=ArtFire Member=Component L2 Inductor
+Added Member To Class: ClassName=ArtFire Member=Component L3 Inductor
+Added Member To Class: ClassName=ArtFire Member=Component LS1 Buzzer
+Added Member To Class: ClassName=ArtFire Member=Component P1 HB-9500
+Added Member To Class: ClassName=ArtFire Member=Component P2 Pump2
+Added Member To Class: ClassName=ArtFire Member=Component P3 Fan
+Added Member To Class: ClassName=ArtFire Member=Component P4 Fire_UP
+Added Member To Class: ClassName=ArtFire Member=Component P5 Alcohol_Detect
+Added Member To Class: ClassName=ArtFire Member=Component P6 Fan
+Added Member To Class: ClassName=ArtFire Member=Component P7 XH2.54-7P
+Added Member To Class: ClassName=ArtFire Member=Component P9 Pump_1
+Added Member To Class: ClassName=ArtFire Member=Component P11 Leakage_Detect
+Added Member To Class: ClassName=ArtFire Member=Component P12 Debug_Port
+Added Member To Class: ClassName=ArtFire Member=Component P13 UART_Debug_Port
+Added Member To Class: ClassName=ArtFire Member=Component P14 thermoelectric_couple_f
+Added Member To Class: ClassName=ArtFire Member=Component P15 thermoelectric_couple_t
+Added Member To Class: ClassName=ArtFire Member=Component Q1 ADO484
+Added Member To Class: ClassName=ArtFire Member=Component Q2 NPN
+Added Member To Class: ClassName=ArtFire Member=Component Q3 ADO484
+Added Member To Class: ClassName=ArtFire Member=Component Q4 NPN
+Added Member To Class: ClassName=ArtFire Member=Component Q5 NPN
+Added Member To Class: ClassName=ArtFire Member=Component Q6 ADO484
+Added Member To Class: ClassName=ArtFire Member=Component Q7 NPN
+Added Member To Class: ClassName=ArtFire Member=Component Q8 ADO484
+Added Member To Class: ClassName=ArtFire Member=Component Q9 NPN
+Added Member To Class: ClassName=ArtFire Member=Component R1 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R2 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R3 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R4 Res
+Added Member To Class: ClassName=ArtFire Member=Component R5 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R6 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R7 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R8 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R9 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R10 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R11 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R12 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R13 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R14 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R15 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R16 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R17 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R18 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R19 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R20 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R21 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R22 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R23 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R24 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R25 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R26 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R27 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R28 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R29 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R30 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R31 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R32 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R33 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R34 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R35 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R36 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R37 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R38 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R39 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R40 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R41 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R42 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R43 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R44 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R45 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R46 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R47 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R48 AT24C02
+Added Member To Class: ClassName=ArtFire Member=Component R49 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R50 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R51 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R52 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R53 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R54 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R55 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R56 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R57 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R58 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R59 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R60 Res_Pack_100R
+Added Member To Class: ClassName=ArtFire Member=Component R61 Res_Pack_100R
+Added Member To Class: ClassName=ArtFire Member=Component R62 Res3
+Added Member To Class: ClassName=ArtFire Member=Component R63 Res3
+Added Member To Class: ClassName=ArtFire Member=Component S1 SW DIP-8
+Added Member To Class: ClassName=ArtFire Member=Component S2 Reset
+Added Member To Class: ClassName=ArtFire Member=Component U1 MQ_Alcohol
+Added Member To Class: ClassName=ArtFire Member=Component U2 M62429
+Added Member To Class: ClassName=ArtFire Member=Component U3 LM2576SX-5.0
+Added Member To Class: ClassName=ArtFire Member=Component U4 AMS1117
+Added Member To Class: ClassName=ArtFire Member=Component U5 ESP-07
+Added Member To Class: ClassName=ArtFire Member=Component U6 LM2904M
+Added Member To Class: ClassName=ArtFire Member=Component U7 DS18B20
+Added Member To Class: ClassName=ArtFire Member=Component U8 MMA8452Q
+Added Member To Class: ClassName=ArtFire Member=Component U9 LM2904M
+Added Member To Class: ClassName=ArtFire Member=Component U10 STM32F103RCT6
+Added Member To Class: ClassName=ArtFire Member=Component U11 LM358AMX
+Added Member To Class: ClassName=ArtFire Member=Component U12 LM2904M
+Added Member To Class: ClassName=ArtFire Member=Component U13 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U14 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U15 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U16 KP10104CTLD
+Added Member To Class: ClassName=ArtFire Member=Component U17 CS8508E
+Added Member To Class: ClassName=ArtFire Member=Component Y1 XTAL
+Added Room: Name=ArtFire

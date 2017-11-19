@@ -1,0 +1,26 @@
+Change Component Description : Designator=U2 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Pin To Net: NetName=+3.3V Pin=D6-1
+Added Pin To Net: NetName=+3.3V Pin=D7-1
+Added Pin To Net: NetName=+3.3V Pin=D8-1
+Added Pin To Net: NetName=+3.3V Pin=P15-1
+Added Pin To Net: NetName=SGND Pin=P15-7
+Added Pin To Net: NetName=SGND Pin=S3-1
+Added Pin To Net: NetName=SGND Pin=S4-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=P15-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=P15-3
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=P15-4
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetP15_5 Pin=P15-5
+Added Pin To Net: NetName=NetP15_5 Pin=S3-2
+Added Net: Name=NetP15_5
+Added Pin To Net: NetName=NetP15_6 Pin=P15-6
+Added Pin To Net: NetName=NetP15_6 Pin=S4-2
+Added Net: Name=NetP15_6
+Added Class: Name=ArtFire_Status
+Added Room: Name=ArtFire
+Added Room: Name=ArtFire_Status

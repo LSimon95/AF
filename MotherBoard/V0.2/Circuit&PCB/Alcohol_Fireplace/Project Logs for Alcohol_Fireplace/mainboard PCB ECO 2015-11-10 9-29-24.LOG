@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetP1_2 Pin=U1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=+12V Pin=U1-5
+Added Component: Designator=P13(CH3.96_2P)
+Added Component: Designator=P14(CH3.96_2P)
+Added Pin To Net: NetName=NetP1_2 Pin=P13-1
+Added Pin To Net: NetName=NetP1_1 Pin=P13-2
+Added Pin To Net: NetName=+12V Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P13 CH3.96_2P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P14 CH3.96_2P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U1 AC2DC
+Added Room: Name=Alcohol_Fireplace

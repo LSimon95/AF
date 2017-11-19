@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO-226-AA New Footprint=SOT23_L
+Change Component Footprint: Designator=Q4 Old Footprint=TO-226-AA New Footprint=SOT23_L
+Change Component Footprint: Designator=Q7 Old Footprint=TO-226-AA New Footprint=SOT23_L
+Change Component Footprint: Designator=Q9 Old Footprint=TO-226-AA New Footprint=SOT23_L
+Change Component Comment : Designator=P10 Old Comment=KF3.96_2P New Comment=Pump_BAK
+Added Room: Name=ArtFire

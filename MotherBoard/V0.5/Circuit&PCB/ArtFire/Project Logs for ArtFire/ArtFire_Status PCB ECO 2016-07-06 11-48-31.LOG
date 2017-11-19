@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP15_5 Pin=S3-2
+Removed Pin From Net: NetName=NetP15_6 Pin=S4-2
+Change Component Footprint: Designator=S3 Old Footprint=SPST-2 New Footprint=KEY_B
+Change Component Footprint: Designator=S4 Old Footprint=SPST-2 New Footprint=KEY_B
+Added Pin To Net: NetName=NetP15_5 Pin=S3-3
+Added Pin To Net: NetName=NetP15_6 Pin=S4-3

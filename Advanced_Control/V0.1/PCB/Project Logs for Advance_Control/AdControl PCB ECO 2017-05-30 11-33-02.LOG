@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=WIFI_RX Pin=U4-21
+Removed Pin From Net: NetName=WIFI_TX Pin=U4-22
+Removed Pin From Net: NetName=HIMRXD Pin=U4-30
+Removed Pin From Net: NetName=HIMTXD Pin=U4-31
+Added Pin To Net: NetName=HIMRXD Pin=U4-21
+Added Pin To Net: NetName=HIMTXD Pin=U4-22
+Added Pin To Net: NetName=WIFI_RX Pin=U4-30
+Added Pin To Net: NetName=WIFI_TX Pin=U4-31
+Added Room: Name=AdControl

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SR_LED Pin=P8-3
+Added Component: Designator=R?(6-0805_N)
+Added Pin To Net: NetName=SR_LED Pin=R?-2
+Added Pin To Net: NetName=BEE Pin=U10-37
+Added Pin To Net: NetName=SR_LED Pin=U10-38
+Added Pin To Net: NetName=NetP8_3 Pin=P8-3
+Added Pin To Net: NetName=NetP8_3 Pin=R?-1
+Added Net: Name=NetP8_3
+Added Member To Class: ClassName=ArtFire Member=Component R? Res3

@@ -1,0 +1,7 @@
+Added Component: Designator=U6(SOT89_N)
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VB+ Pin=U6-2
+Added Pin To Net: NetName=VB+ Pin=U6-2
+Added Pin To Net: NetName=+3.3V Pin=U6-3
+Added Member To Class: ClassName=AdControl Member=Component U6 HT7333-SOT89
+Added Room: Name=AdControl

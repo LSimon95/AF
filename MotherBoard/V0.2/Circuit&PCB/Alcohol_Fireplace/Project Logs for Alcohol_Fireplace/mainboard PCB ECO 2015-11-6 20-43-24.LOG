@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=FIRE_D1 Pin=C6-1
+Removed Pin From Net: NetName=FIRE_D1 Pin=P9-1
+Removed Pin From Net: NetName=FIRE_D2 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P9-3
+Removed Pin From Net: NetName=FIRE_D1 Pin=R11-1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C5
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C6
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C7
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C8
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C9
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=C10
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D6
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D7
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=D8
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=K1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=K2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=K3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=K5
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P5
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P6
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P7
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P8
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P9
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P10
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=P11
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=Q1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=Q2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=Q3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=Q4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=Q5
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R1
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R5
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R6
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R7
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R8
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R9
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R10
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R11
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R12
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R13
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R14
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R15
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R16
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=U2
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=U3
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=U4
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=U5
+Change Component Designator: OldDesignator=C1 NewDesignator=C?
+Change Component Designator: OldDesignator=C2 NewDesignator=C?
+Change Component Designator: OldDesignator=C3 NewDesignator=C?
+Change Component Designator: OldDesignator=C4 NewDesignator=C?
+Change Component Designator: OldDesignator=C5 NewDesignator=C?
+Change Component Designator: OldDesignator=C6 NewDesignator=C?
+Change Component Designator: OldDesignator=C7 NewDesignator=C?
+Change Component Designator: OldDesignator=C8 NewDesignator=C?
+Change Component Designator: OldDesignator=C9 NewDesignator=C?
+Change Component Designator: OldDesignator=C10 NewDesignator=C?
+Change Component Designator: OldDesignator=D1 NewDesignator=D?
+Change Component Designator: OldDesignator=D2 NewDesignator=D?
+Change Component Designator: OldDesignator=D3 NewDesignator=D?
+Change Component Designator: OldDesignator=D4 NewDesignator=D?
+Change Component Designator: OldDesignator=D5 NewDesignator=D?
+Change Component Designator: OldDesignator=D6 NewDesignator=D?
+Change Component Designator: OldDesignator=D7 NewDesignator=D?
+Change Component Designator: OldDesignator=D8 NewDesignator=D?
+Change Component Designator: OldDesignator=K1 NewDesignator=K?
+Change Component Designator: OldDesignator=K2 NewDesignator=K?
+Change Component Designator: OldDesignator=K3 NewDesignator=K?
+Change Component Designator: OldDesignator=K4 NewDesignator=K?
+Change Component Designator: OldDesignator=K5 NewDesignator=K?
+Change Component Designator: OldDesignator=LS1 NewDesignator=LS?
+Change Component Designator: OldDesignator=P1 NewDesignator=P?
+Change Component Designator: OldDesignator=P2 NewDesignator=P?
+Change Component Designator: OldDesignator=P3 NewDesignator=P?
+Change Component Designator: OldDesignator=P4 NewDesignator=P?
+Change Component Designator: OldDesignator=P5 NewDesignator=P?
+Change Component Designator: OldDesignator=P6 NewDesignator=P?
+Change Component Designator: OldDesignator=P7 NewDesignator=P?
+Change Component Designator: OldDesignator=P8 NewDesignator=P?
+Change Component Designator: OldDesignator=P10 NewDesignator=P?
+Change Component Designator: OldDesignator=P11 NewDesignator=P?
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q?
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q?
+Change Component Designator: OldDesignator=R1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2 NewDesignator=R?
+Change Component Designator: OldDesignator=R3 NewDesignator=R?
+Change Component Designator: OldDesignator=R4 NewDesignator=R?
+Change Component Designator: OldDesignator=R5 NewDesignator=R?
+Change Component Designator: OldDesignator=R6 NewDesignator=R?
+Change Component Designator: OldDesignator=R7 NewDesignator=R?
+Change Component Designator: OldDesignator=R8 NewDesignator=R?
+Change Component Designator: OldDesignator=R9 NewDesignator=R?
+Change Component Designator: OldDesignator=R10 NewDesignator=R?
+Change Component Designator: OldDesignator=R11 NewDesignator=R?
+Change Component Designator: OldDesignator=R12 NewDesignator=R?
+Change Component Designator: OldDesignator=R13 NewDesignator=R?
+Change Component Designator: OldDesignator=R14 NewDesignator=R?
+Change Component Designator: OldDesignator=R15 NewDesignator=R?
+Change Component Designator: OldDesignator=R16 NewDesignator=R?
+Change Component Designator: OldDesignator=S1 NewDesignator=S?
+Change Component Designator: OldDesignator=U1 NewDesignator=U?
+Change Component Designator: OldDesignator=U2 NewDesignator=U?
+Change Component Designator: OldDesignator=U3 NewDesignator=U?
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Change Component Designator: OldDesignator=U5 NewDesignator=U?
+Change Component Designator: OldDesignator=Y1 NewDesignator=Y?
+Added Component: Designator=C?(6-0805_N)
+Added Component: Designator=P?(CH3.96_3P)
+Added Component: Designator=R?(6-0805_N)
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=FIRE_D1 Pin=P?-1
+Added Pin To Net: NetName=FIRE_D2 Pin=P?-2
+Added Pin To Net: NetName=+5V Pin=R?-2
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD?_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetK1_3 New Net Name=NetK?_3
+Change Net Name : Old Net Name=NetK2_3 New Net Name=NetK?_3
+Change Net Name : Old Net Name=NetK3_3 New Net Name=NetK?_3
+Change Net Name : Old Net Name=NetK4_3 New Net Name=NetK?_3
+Change Net Name : Old Net Name=NetK5_3 New Net Name=NetK?_3
+Change Net Name : Old Net Name=NetLS1_2 New Net Name=NetLS?_2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP?_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP?_2
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetP?_1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ?_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ?_1
+Added Pin To Net: NetName=ALOVR Pin=C?-1
+Added Pin To Net: NetName=ALOVR Pin=P?-3
+Added Pin To Net: NetName=ALOVR Pin=R?-2
+Added Pin To Net: NetName=ALOVR Pin=U?-16
+Added Net: Name=ALOVR
+Added Pin To Net: NetName=FIRE_D3 Pin=C?-1
+Added Pin To Net: NetName=FIRE_D3 Pin=R?-2
+Added Net: Name=FIRE_D3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C? Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P? Fire_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R? Res3
+Added Room: Name=Alcohol_Fireplace

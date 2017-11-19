@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FAN Pin=U6-36
+Removed Pin From Net: NetName=PUMP1 Pin=U6-62
+Added Pin To Net: NetName=PUMP1 Pin=R17-1
+Added Pin To Net: NetName=PUMP1 Pin=R35-1
+Added Pin To Net: NetName=FAN Pin=U6-35
+Added Pin To Net: NetName=PUMP1 Pin=U6-36
+Added Room: Name=ArtFire

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ArtFire.PrjPcb]
+   Generated File[ArtFire_Status.GTL]
+   Generated File[ArtFire_Status.GBL]
+   Generated File[ArtFire_Status.GPB]
+   Generated File[ArtFire_Status.GPT]
+   Generated File[ArtFire_Status.GTO]
+   Generated File[ArtFire_Status.GTP]
+   Generated File[ArtFire_Status.GTS]
+   Generated File[ArtFire_Status.GBS]
+   Generated File[ArtFire_Status.GBP]
+   Generated File[ArtFire_Status.GBO]
+   Generated File[ArtFire_Status.GKO]
+   Generated File[ArtFire_Status.GM1]
+   Generated File[ArtFire_Status.RUL]
+   Generated File[ArtFire_Status.EXTREP]
+   Generated File[ArtFire_Status.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 15:14:34 On 2017-05-18

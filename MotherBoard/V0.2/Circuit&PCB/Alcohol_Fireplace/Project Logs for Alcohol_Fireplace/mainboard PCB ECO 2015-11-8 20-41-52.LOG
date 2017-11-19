@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetK5_3 Pin=P11-1
+Removed Pin From Net: NetName=GND Pin=P11-2
+Added Component: Designator=P12(HB-9500)
+Added Pin To Net: NetName=NetK5_3 Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-2
+Added Pin To Net: NetName=+5V Pin=R11-2
+Added Pin To Net: NetName=+5V Pin=R12-2
+Added Room: Name=Alcohol_Fireplace

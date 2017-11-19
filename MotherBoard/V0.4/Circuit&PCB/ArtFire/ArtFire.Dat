@@ -1,0 +1,43 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Free Documents|ReportField=ProjectFullPath~Free Documents|ReportField=Title~Bill of Materials For Schematic Document [ArtFire.SchDoc]|ReportField=TotalQuantity~111|ReportField=ReportTime~14:16:46|ReportField=ReportDate~2016-04-08|ReportField=ReportDateTime~2016-04-08 14:16:46|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016-04-08|ReportField=CurrentTime~14:16:37|ReportField=Date~2016-03-12|ReportField=DocumentFullPathAndName~F:\Document\Alcohol_Fire\V0.4\Circuit&PCB\ArtFire\ArtFire.SchDoc|ReportField=DocumentName~ArtFire.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016-04-04|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~ArtFire|ReportField=Version~V0.3|ReportField=DataSourceFileName~ArtFire.SchDoc|ReportField=DataSourceFullPath~F:\Document\Alcohol_Fire\V0.4\Circuit&PCB\ArtFire\ArtFire.SchDoc
+Battery|Multicell Battery|BT1|Battery_1302|Battery|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C3, C6, C7, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C22, C23, C24, C26|6-0805_N|Cap Semi|20
+Cap Pol1|Polarized Capacitor (Radial)|C4, C5, C8|Cap_5*4mm|Cap Pol1|3
+Cap Pol1|Polarized Capacitor (Radial)|C21|CAP_10*10MM|Cap Pol1|1
+RF16700|Circuit Breaker|CB1|SPST-2|Circuit Breaker|1
+PWR|Typical INFRARED GaAs LED|D1|6-0805_N|LED0|1
+Diode|Silicon RF Schottky Diode for Mixer Applications in the VHF/UHF Range|D2, D3, D4|US1M|Diode BAT17|3
+Buzzer|Magnetic Transducer Buzzer|LS1|BUZZER|Buzzer|1
+Alcohol_C||P1|CH3.96_2P|CH3.96_2P|1
+Alcohol_Detect||P2|XH2.54-3P|XH2.54-3P|1
+HB-9500|High current connector|P3|HB-9500|HB-9500|1
+Fan||P4, P8|XH2.54-2P|XH2.54-2P|2
+Pump2||P5|CH3.96_2P|CH3.96_2P|1
+XH2.54-7P||P6|XH2.54-7P|XH2.54-7P|1
+Fire_UP||P7|KF3.96_2P|KF3.96|1
+Superheterodyne_Receiver||P9|Sperheterodyne_Receiver|Superheterodyne_Receiver|1
+Pump_1||P10|CH3.96_2P|CH3.96_2P|1
+Debug_Port|Header, 4-Pin|P11|HDR1X4|Header 4|1
+UART_Debug_Port|Header, 4-Pin|P12|HDR1X4|Header 4|1
+Speaker||P13|XH2.54-2P|XH2.54-2P|1
+Fire_Detect||P14|CH3.96_3P|CH3.96_3P|1
+Leakage_Detect||P15|XH2.54-3P|XH2.54-3P|1
+Thermocouple||P16|CH3.96_2P|CH3.96_2P|1
+ADO484|N-Channel Power MOSFET|Q1, Q3, Q6, Q8|DPAK_AOD484|NMOS-2|4
+NPN|NPN Bipolar Transistor|Q2, Q4, Q5, Q7, Q9|SOT-23_N|NPN|5
+Res3|Resistor|R1, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41|6-0805_N|Res3|39
+Res|Resistor|R2|6-0805_N|Res1|1
+AT24C02||R22|SOP8_TDA2822|AT24C02|1
+Reset|Switch|S1|SWP_PB_6.5mm|SW-PB|1
+SW DIP-2|DIP Switch, 2 Position, SPST|S2|DIP-4|SW DIP-2|1
+MQ_Alcohol||U1|MQ|MQ|1
+ESP-07||U2|ESP-07_Wifi|ESP-07_Wifi|1
+L7805CD2T-TR|Positive Voltage Regulator, 5V, 3-Pin TO-220|U3|D2PAK_N|CMP-0244-00485-1|1
+AMS1117||U4|SOT223_N|AMS1117|1
+MMA7660FC||U5|DFN-10P|MMA7660FC|1
+STM32F103RBT7|STM32 ARM-based 32-bit MCU Performance Line with 128 kB Flash, 20 kB Internal RAM, -40 to +105°„C Temperature, 64-Pin LQFP, Tray|U6|LQFP64_L|CMP-0237-00161-1|1
+YF017||U7|DIP-8|YF017|1
+DS18B20||U8|TO-92A|DS18B20|1
+DS1302||U9|SOP8_TDA2822|DS1302|1
+LM358AMX|Low Power Dual Operational Amplifier, 8-pin Narrow SOIC|U10|M08A_M|CMP-0055-00768-2|1
+XTAL|Crystal Oscillator|Y1|XTAL|XTAL|1
+XTAL|Crystal Oscillator|Y2|32.768Cystal|XTAL|1

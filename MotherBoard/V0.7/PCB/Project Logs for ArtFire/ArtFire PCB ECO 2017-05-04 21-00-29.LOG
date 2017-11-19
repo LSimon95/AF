@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=FLD_OUT Pin=C21-2
+Added Pin To Net: NetName=FHD_OUT Pin=C29-2
+Added Pin To Net: NetName=FLD_OUT Pin=R33-2
+Added Pin To Net: NetName=FHD_OUT Pin=R41-2
+Added Room: Name=ArtFire

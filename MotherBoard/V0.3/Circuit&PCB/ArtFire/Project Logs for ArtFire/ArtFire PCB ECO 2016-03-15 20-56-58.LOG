@@ -1,0 +1,4 @@
+Added Component: Designator=P13(XH2.54-2P)
+Added Pin To Net: NetName=NetP13_1 Pin=P13-1
+Added Pin To Net: NetName=NetP13_2 Pin=P13-2
+Added Member To Class: ClassName=ArtFire Member=Component P13 XH2.54-2P

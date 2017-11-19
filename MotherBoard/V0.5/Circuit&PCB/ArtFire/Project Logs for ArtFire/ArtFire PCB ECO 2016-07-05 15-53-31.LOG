@@ -1,0 +1,12 @@
+Added Component: Designator=U5(QFN-16)
+Added Pin To Net: NetName=+3.3V Pin=U5-1
+Added Pin To Net: NetName=NetC10_2 Pin=U5-2
+Added Pin To Net: NetName=MMA_SCL Pin=U5-4
+Added Pin To Net: NetName=SGND Pin=U5-5
+Added Pin To Net: NetName=MMA_SDA Pin=U5-6
+Added Pin To Net: NetName=SGND Pin=U5-7
+Added Pin To Net: NetName=SGND Pin=U5-10
+Added Pin To Net: NetName=SGND Pin=U5-12
+Added Pin To Net: NetName=+3.3V Pin=U5-14
+Added Member To Class: ClassName=ArtFire Member=Component U5 MMA8452Q
+Added Room: Name=ArtFire

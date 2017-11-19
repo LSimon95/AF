@@ -1,0 +1,150 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=K? NewDesignator=K2
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=K? NewDesignator=K5
+Change Component Designator: OldDesignator=LS? NewDesignator=LS1
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P8
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P10
+Change Component Designator: OldDesignator=P? NewDesignator=P11
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Pin To Net: NetName=+5V Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R11-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK3_3
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK4_3
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK5_3
+Change Net Name : Old Net Name=NetLS?_2 New Net Name=NetLS1_2
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ6_1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C3 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C4 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C9 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C10 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C11 Cap Semi
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D2 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D3 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D4 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D5 LED0
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D6 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D7 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component D8 Diode
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K2 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K3 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K4 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K5 Relay_L
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P2 Shock_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P3 Pump1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P4 Solenoid_valve_In
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P5 Header 4H
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P6 Superregeneration_Module_Rx
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P7 Solenoid_valve_Out
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P8 Pump2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P9 Fire_Detect
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P10 Fire_Up
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P11 CH3.96_4P
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q2 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q3 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q4 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q5 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q6 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R2 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R3 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R4 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R5 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R6 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R7 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R8 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R9 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R10 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R11 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R12 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R13 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R14 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R15 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R16 Res_Pot
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R17 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U2 L7805CD2T-TR
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U3 DS18B20
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U4 STM8S903K3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U5 MQ_Alcohol

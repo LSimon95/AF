@@ -1,0 +1,4 @@
+Added Component: Designator=P6(XH2.54-7P)
+Added Pin To Net: NetName=+5V Pin=P6-1
+Added Pin To Net: NetName=PGND Pin=P6-7
+Added Member To Class: ClassName=ArtFire Member=Component P6 XH2.54-7P

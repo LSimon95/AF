@@ -1,0 +1,16 @@
+.\objects\stm32f10x_dac.o: ..\LIB\SRC\stm32f10x_dac.c
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_dac.h
+.\objects\stm32f10x_dac.o: ..\SYS\stm32f10x.h
+.\objects\stm32f10x_dac.o: ..\SYS\core_cm3.h
+.\objects\stm32f10x_dac.o: F:\Keil\ARM\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f10x_dac.o: ..\SYS\system_stm32f10x.h
+.\objects\stm32f10x_dac.o: ..\USER\stm32f10x_conf.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_adc.h
+.\objects\stm32f10x_dac.o: ..\SYS\stm32f10x.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_dma.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_gpio.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_rcc.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_tim.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_usart.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\stm32f10x_wwdg.h
+.\objects\stm32f10x_dac.o: ..\LIB\INC\misc.h

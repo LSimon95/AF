@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC11_2 Pin=R17-1
+Removed Pin From Net: NetName=NetC10_2 Pin=R17-2
+Removed Pin From Net: NetName=+5V Pin=U4-6
+Removed Pin From Net: NetName=PUMP2 Pin=U4-7
+Removed Pin From Net: NetName=PUMP1 Pin=U4-8
+Removed Pin From Net: NetName=SVOUT Pin=U4-9
+Removed Pin From Net: NetName=SVIN Pin=U4-10
+Removed Pin From Net: NetName=FIRE_D1 Pin=U4-11
+Removed Pin From Net: NetName=FIRE_D2 Pin=U4-12
+Removed Pin From Net: NetName=ALDH1 Pin=U4-13
+Removed Pin From Net: NetName=ALDH2 Pin=U4-14
+Removed Pin From Net: NetName=ALDL Pin=U4-15
+Removed Pin From Net: NetName=ALOVR Pin=U4-16
+Removed Pin From Net: NetName=SHOCK_DETECT Pin=U4-17
+Removed Pin From Net: NetName=REMOTE_RX Pin=U4-18
+Removed Pin From Net: NetName=LED1 Pin=U4-19
+Removed Pin From Net: NetName=LED2 Pin=U4-20
+Removed Pin From Net: NetName=LED3 Pin=U4-21
+Removed Pin From Net: NetName=CSB Pin=U4-24
+Removed Pin From Net: NetName=TEM Pin=U4-25
+Removed Pin From Net: NetName=SWIM Pin=U4-26
+Removed Pin From Net: NetName=ALCOHOL_M Pin=U4-28
+Removed Pin From Net: NetName=FIRE_UP Pin=U4-30
+Removed Pin From Net: NetName=ALARM Pin=U4-32
+Removed Member From Class: ClassName=Alcohol_Fireplace Member=R17
+Change Component DesignItemId : Designator=U4 Old DesignItemId=STM8S903K3 New DesignItemId=STM8S105C
+Change Component Footprint: Designator=U4 Old Footprint=LQFP32 New Footprint=LQFP48
+Change Component Comment : Designator=U4 Old Comment=STM8S903K3 New Comment=STM8S105C
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P11
+Change Component Designator: OldDesignator=P11 NewDesignator=P9
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Added Pin To Net: NetName=CSB Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=FIRE_D3 Pin=R10-2
+Added Pin To Net: NetName=ALOVR Pin=R11-2
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=CSB Pin=U4-6
+Added Pin To Net: NetName=+5V Pin=U4-7
+Added Pin To Net: NetName=+5V Pin=U4-8
+Added Pin To Net: NetName=+5V Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-31
+Added Pin To Net: NetName=+5V Pin=U4-32
+Change Net Name : Old Net Name=CSB New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC9_2
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component K1 Relay_S
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P1 Fire_Header_100/240V
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component P11 Fire_Up
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component Q1 PNP
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component R1 Res3
+Added Member To Class: ClassName=Alcohol_Fireplace Member=Component U1 AC2DC
+Added Room: Name=Alcohol_Fireplace

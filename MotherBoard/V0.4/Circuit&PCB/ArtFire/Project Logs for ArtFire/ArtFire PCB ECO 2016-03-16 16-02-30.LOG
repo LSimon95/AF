@@ -1,0 +1,6 @@
+Added Component: Designator=D1(6-0805_N)
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=IO6 Pin=D1-2
+Added Pin To Net: NetName=TEM Pin=U6-24
+Added Member To Class: ClassName=ArtFire Member=Component D1 PWR
+Added Room: Name=ArtFire

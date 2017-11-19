@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=FIRE_D2 Pin=U4-15
+Removed Pin From Net: NetName=FIRE_D1 Pin=U4-16
+Added Pin To Net: NetName=FIRE_D2 Pin=R11-2
+Added Pin To Net: NetName=ALOVR Pin=R12-2
+Added Pin To Net: NetName=FIRE_D1 Pin=U4-43
+Added Pin To Net: NetName=FIRE_D2 Pin=U4-44
+Added Room: Name=Alcohol_Fireplace

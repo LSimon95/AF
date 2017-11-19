@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SR_D0 Pin=U6-10
+Removed Pin From Net: NetName=SR_D1 Pin=U6-11
+Removed Pin From Net: NetName=SR_VT Pin=U6-14
+Removed Pin From Net: NetName=SR_D2 Pin=U6-15
+Added Pin To Net: NetName=ALC Pin=U6-10
+Added Pin To Net: NetName=SR_D0 Pin=U6-11
+Added Pin To Net: NetName=SR_D2 Pin=U6-14
+Added Pin To Net: NetName=SR_D1 Pin=U6-15
+Added Room: Name=ArtFire
