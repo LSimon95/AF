@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=ADL_IN Pin=U10-21
+Change Component Description : Designator=U3 Old Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263 New Description=SIMPLE SWITCHER? 3A Step-Down Voltage Regulator, 5-pin TO-263
+Added Pin To Net: NetName=+3.3V Pin=P5-1
+Added Pin To Net: NetName=M6_DATA Pin=U10-41
+Added Pin To Net: NetName=M6_CLK Pin=U10-50
+Change Net Name : Old Net Name=ADH_IN New Net Name=AD_IN
+Change Net Name : Old Net Name=ADL_IN New Net Name=NetC26_2
+Added Pin To Net: NetName=AD_OUT Pin=C15-2
+Added Pin To Net: NetName=AD_OUT Pin=P5-2
+Added Pin To Net: NetName=AD_OUT Pin=R27-2
+Added Net: Name=AD_OUT
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=R36-2
+Added Net: Name=NetC24_2
+Added Room: Name=ArtFire

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SGND Pin=P8-2
+Removed Pin From Net: NetName=SGND Pin=P8-11
+Added Pin To Net: NetName=PGND Pin=P8-2
+Added Pin To Net: NetName=PGND Pin=P8-11
+Added Room: Name=ArtFire

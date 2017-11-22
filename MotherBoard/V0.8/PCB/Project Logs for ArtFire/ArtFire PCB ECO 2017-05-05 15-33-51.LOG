@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SW5 Pin=U10-44
+Removed Pin From Net: NetName=SW6 Pin=U10-45
+Added Pin To Net: NetName=SW6 Pin=U10-44
+Added Pin To Net: NetName=SW5 Pin=U10-45
+Added Room: Name=ArtFire

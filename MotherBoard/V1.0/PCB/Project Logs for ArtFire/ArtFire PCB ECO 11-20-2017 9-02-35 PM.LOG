@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=PGND Pin=P10-3
+Removed Pin From Net: NetName=PGND Pin=P11-3
+Removed Pin From Net: NetName=PGND Pin=P14-2
+Removed Pin From Net: NetName=PGND Pin=P15-2
+Removed Pin From Net: NetName=FIRE_TEM_D Pin=R42-2
+Removed Pin From Net: NetName=PGND Pin=R45-1
+Removed Pin From Net: NetName=FIRE_TEM_T Pin=R51-2
+Removed Pin From Net: NetName=PGND Pin=R53-1
+Removed Pin From Net: NetName=FIRE_TEM_D Pin=U11-1
+Removed Pin From Net: NetName=PGND Pin=U11-4
+Removed Pin From Net: NetName=FIRE_TEM_T Pin=U11-7
+Removed Pin From Net: NetName=+5V Pin=U11-8
+Removed Member From Class: ClassName=ArtFire Member=R42
+Removed Member From Class: ClassName=ArtFire Member=R44
+Removed Member From Class: ClassName=ArtFire Member=R45
+Removed Member From Class: ClassName=ArtFire Member=R51
+Removed Member From Class: ClassName=ArtFire Member=R52
+Removed Member From Class: ClassName=ArtFire Member=R53
+Removed Member From Class: ClassName=ArtFire Member=U11
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(6-0805_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U17-3
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R9-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetP10_3 Pin=P10-3
+Added Pin To Net: NetName=NetP10_3 Pin=P11-3
+Added Pin To Net: NetName=NetP10_3 Pin=P14-2
+Added Net: Name=NetP10_3
+Added Member To Class: ClassName=ArtFire Member=Component C? Cap Semi
+Added Room: Name=ArtFire

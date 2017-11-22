@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5V Pin=C47-1
+Removed Pin From Net: NetName=PGND Pin=C47-2
+Removed Pin From Net: NetName=+5V Pin=C48-1
+Removed Pin From Net: NetName=PGND Pin=C48-2
+Removed Member From Class: ClassName=ArtFire Member=C47
+Removed Member From Class: ClassName=ArtFire Member=C48
+Added Room: Name=ArtFire

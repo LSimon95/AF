@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=SWDIO Pin=P12-2
+Removed Pin From Net: NetName=SWCLK Pin=P12-3
+Removed Pin From Net: NetName=DEBUG_TX Pin=P13-2
+Removed Pin From Net: NetName=DEBUG_RX Pin=P13-3
+Removed Pin From Net: NetName=SWDIO Pin=R47-1
+Removed Pin From Net: NetName=SWCLK Pin=R55-1
+Removed Pin From Net: NetName=DEBUG_TX Pin=R56-1
+Removed Pin From Net: NetName=DEBUG_RX Pin=R63-1
+Added Pin To Net: NetName=SWDIO Pin=R47-2
+Added Pin To Net: NetName=SWCLK Pin=R55-2
+Added Pin To Net: NetName=DEBUG_TX Pin=R56-2
+Added Pin To Net: NetName=DEBUG_RX Pin=R63-2
+Added Pin To Net: NetName=NetP12_2 Pin=P12-2
+Added Pin To Net: NetName=NetP12_2 Pin=R47-1
+Added Net: Name=NetP12_2
+Added Pin To Net: NetName=NetP12_3 Pin=P12-3
+Added Pin To Net: NetName=NetP12_3 Pin=R55-1
+Added Net: Name=NetP12_3
+Added Pin To Net: NetName=NetP13_2 Pin=P13-2
+Added Pin To Net: NetName=NetP13_2 Pin=R56-1
+Added Net: Name=NetP13_2
+Added Pin To Net: NetName=NetP13_3 Pin=P13-3
+Added Pin To Net: NetName=NetP13_3 Pin=R63-1
+Added Net: Name=NetP13_3
+Added Room: Name=ArtFire

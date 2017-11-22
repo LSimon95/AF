@@ -1,0 +1,10 @@
+.\objects\touch.o: Touch.c
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\GUI.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\GUI_ConfDefaults.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\GUIConf.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\GUI_Type.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\LCD.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\Global.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\emWin\Include\GUI_Version.h
+.\objects\touch.o: G:\KEIL5\ARM\PACK\Keil\MDK-Middleware\7.4.1\Board\Board_Touch.h
+.\objects\touch.o: G:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h

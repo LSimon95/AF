@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=S1 Old Footprint=DIP_SW_8WAY_SMD New Footprint=DHN(F)_8Pin
+Added Pin To Net: NetName=NetC24_1 Pin=U9-4
+Added Room: Name=ArtFire
